@@ -1,5 +1,5 @@
-# TryHackMe_The-Marketplace
-Walkthrough of TryHackMe "The Marketplace" SQLi Injection.
+# TryHackMe
+Walkthrough of TryHackMe Rooms.
 
 Requirements:
 
